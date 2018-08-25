@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00c853</color>
+    <color name="colorHitam">#231F20</color>
+    <color name="colorAbu">#ecf1f4</color>
+    <color name="colorPrimaryDark">#009624</color>
+    <color name="colorAccent">#f57c00</color>
+    <color name="colorSc">#595959</color>
+    <color name="colorSc2">#808080</color>
+    <color name="colorTextDis">#d4d4d4</color>
+    <color name="colorPB">#bc6d8b</color>
+
+    <color name="pDarkGreen">#8ec549</color>
+    <color name="pDarskSlowGreen">#c1f57f</color>
+    <color name="pLightGreen">#f7ffed</color>
+    <color name="pFullLightGreen">#d6d4d4</color>
+    <color name="putihh">#FFFF</color>
+</resources>

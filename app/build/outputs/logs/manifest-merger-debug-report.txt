@@ -1,0 +1,306 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:2:1-126:12
+INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:2:1-126:12
+INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:2:1-126:12
+INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:2:1-126:12
+MERGED from [id.zelory:compressor:2.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/5c921fe10df2b456a66fbd3cca29f2d6/AndroidManifest.xml:2:1-12:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/mac/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/ff7073ee6c372932c5737da8235eee4e/AndroidManifest.xml:15:1-21:12
+MERGED from [com.michaelmuenzer.android:ScrollableNumberPicker:0.2.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/ScrollableNumberPicker-0.2.2.aar/32c4f25cefff9dc34a4164c342119e6b/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4111835792350b5a672c34b4872008c6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/653d2fc7cc83cf567e7af1b3e7d51032/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/eac2718cfec4ff23c893e0ed050018a4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/a185050cbdace66ba36864d088c4c39e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/69155cb2dc637c93602286c4797a856f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b427067ac20ddc52e37b31bfa91192d6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e76a5c65e0824574bfeaab4d3f1d1de3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/36e2b85faa8af207167ec61884e3b28f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.5.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/android-observablescrollview-1.5.0.aar/a9a8017f13d5d52dd34e827b0e658b49/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c8a695c3fbdd89a5444b976a2fe3c750/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/73ed0194da0e22ea6109b082e8aadee1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f38113048b2f9b29cc71e54fd85fd46/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9eb47ee193f76a849afbba8e8de7d8c4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/dc9091c42d270c4ec25ad818953633d3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/73a25c640d7d30e8033ba667964b7b58/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/83dee4655c621520a35401faaf864e50/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:2:1-126:12
+INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:2:1-126:12
+INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:2:1-126:12
+	package
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:2:1-126:12
+		INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:2:1-126:12
+		INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:6:5-124:19
+MERGED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4111835792350b5a672c34b4872008c6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4111835792350b5a672c34b4872008c6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/653d2fc7cc83cf567e7af1b3e7d51032/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/653d2fc7cc83cf567e7af1b3e7d51032/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/eac2718cfec4ff23c893e0ed050018a4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/eac2718cfec4ff23c893e0ed050018a4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/a185050cbdace66ba36864d088c4c39e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/a185050cbdace66ba36864d088c4c39e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/69155cb2dc637c93602286c4797a856f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/69155cb2dc637c93602286c4797a856f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b427067ac20ddc52e37b31bfa91192d6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b427067ac20ddc52e37b31bfa91192d6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e76a5c65e0824574bfeaab4d3f1d1de3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e76a5c65e0824574bfeaab4d3f1d1de3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/36e2b85faa8af207167ec61884e3b28f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/36e2b85faa8af207167ec61884e3b28f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c8a695c3fbdd89a5444b976a2fe3c750/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c8a695c3fbdd89a5444b976a2fe3c750/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/73ed0194da0e22ea6109b082e8aadee1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/73ed0194da0e22ea6109b082e8aadee1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f38113048b2f9b29cc71e54fd85fd46/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f38113048b2f9b29cc71e54fd85fd46/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9eb47ee193f76a849afbba8e8de7d8c4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9eb47ee193f76a849afbba8e8de7d8c4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/dc9091c42d270c4ec25ad818953633d3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/dc9091c42d270c4ec25ad818953633d3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/73a25c640d7d30e8033ba667964b7b58/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/73a25c640d7d30e8033ba667964b7b58/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/83dee4655c621520a35401faaf864e50/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/83dee4655c621520a35401faaf864e50/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:10:9-46
+	android:icon
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.example.umaaamm.dewi_jilbabadmin.MainActivity
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:13:9-17:20
+	android:label
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:14:13-77
+activity#com.example.umaaamm.dewi_jilbabadmin.SplashScreen
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:19:9-26:20
+	android:theme
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:21:13-54
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:20:13-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.umaaamm.dewi_jilbabadmin.UploadProdukClass
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:31:13-42
+	android:theme
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:32:13-47
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:30:13-82
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:33:13-35:79
+	android:value
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:34:17-63
+activity#com.example.umaaamm.dewi_jilbabadmin.ProdukPerKategori
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:38:9-45:20
+	android:label
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:40:13-47
+	android:theme
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:41:13-47
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:39:13-82
+activity#com.example.umaaamm.dewi_jilbabadmin.ProdukDetail
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:46:9-53:20
+	android:label
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:48:13-42
+	android:theme
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:49:13-47
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:47:13-77
+activity#com.example.umaaamm.dewi_jilbabadmin.Tentang
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:55:9-62:20
+	android:label
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:57:13-45
+	android:theme
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:58:13-47
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:56:13-72
+activity#com.example.umaaamm.dewi_jilbabadmin.Register
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:63:9-70:20
+	android:label
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:65:13-40
+	android:theme
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:66:13-47
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:64:13-73
+activity#com.example.umaaamm.dewi_jilbabadmin.Login
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:71:9-75:20
+	android:label
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:73:13-43
+	android:theme
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:74:13-47
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:72:13-70
+activity#com.example.umaaamm.dewi_jilbabadmin.Produk
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:76:9-83:20
+	android:label
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:78:13-35
+	android:theme
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:79:13-47
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:77:13-71
+activity#com.example.umaaamm.dewi_jilbabadmin.Detailproduk
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:84:9-91:20
+	android:label
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:86:13-42
+	android:theme
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:87:13-47
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:85:13-77
+activity#com.example.umaaamm.dewi_jilbabadmin.Kategori
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:92:9-99:20
+	android:label
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:94:13-44
+	android:theme
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:95:13-47
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:93:13-73
+activity#com.example.umaaamm.dewi_jilbabadmin.DetailKategori
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:100:9-107:20
+	android:label
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:102:13-44
+	android:theme
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:103:13-47
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:101:13-79
+activity#com.example.umaaamm.dewi_jilbabadmin.Keranjang
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:108:9-115:20
+	android:label
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:110:13-46
+	android:theme
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:111:13-47
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:109:13-74
+activity#com.example.umaaamm.dewi_jilbabadmin.Faktur
+ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:116:9-123:20
+	android:label
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:118:13-43
+	android:theme
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:119:13-47
+	android:name
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml:117:13-71
+uses-sdk
+INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml
+MERGED from [id.zelory:compressor:2.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/5c921fe10df2b456a66fbd3cca29f2d6/AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/5c921fe10df2b456a66fbd3cca29f2d6/AndroidManifest.xml:8:5-10:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/mac/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/ff7073ee6c372932c5737da8235eee4e/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/mac/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/ff7073ee6c372932c5737da8235eee4e/AndroidManifest.xml:19:5-43
+MERGED from [com.michaelmuenzer.android:ScrollableNumberPicker:0.2.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/ScrollableNumberPicker-0.2.2.aar/32c4f25cefff9dc34a4164c342119e6b/AndroidManifest.xml:8:5-10:41
+MERGED from [com.michaelmuenzer.android:ScrollableNumberPicker:0.2.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/ScrollableNumberPicker-0.2.2.aar/32c4f25cefff9dc34a4164c342119e6b/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4111835792350b5a672c34b4872008c6/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4111835792350b5a672c34b4872008c6/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/653d2fc7cc83cf567e7af1b3e7d51032/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/653d2fc7cc83cf567e7af1b3e7d51032/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/eac2718cfec4ff23c893e0ed050018a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/eac2718cfec4ff23c893e0ed050018a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/a185050cbdace66ba36864d088c4c39e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/a185050cbdace66ba36864d088c4c39e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/69155cb2dc637c93602286c4797a856f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/69155cb2dc637c93602286c4797a856f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b427067ac20ddc52e37b31bfa91192d6/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b427067ac20ddc52e37b31bfa91192d6/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e76a5c65e0824574bfeaab4d3f1d1de3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e76a5c65e0824574bfeaab4d3f1d1de3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/36e2b85faa8af207167ec61884e3b28f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/36e2b85faa8af207167ec61884e3b28f/AndroidManifest.xml:20:5-44
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.5.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/android-observablescrollview-1.5.0.aar/a9a8017f13d5d52dd34e827b0e658b49/AndroidManifest.xml:21:5-43
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.5.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/android-observablescrollview-1.5.0.aar/a9a8017f13d5d52dd34e827b0e658b49/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c8a695c3fbdd89a5444b976a2fe3c750/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c8a695c3fbdd89a5444b976a2fe3c750/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/73ed0194da0e22ea6109b082e8aadee1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/73ed0194da0e22ea6109b082e8aadee1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f38113048b2f9b29cc71e54fd85fd46/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f38113048b2f9b29cc71e54fd85fd46/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9eb47ee193f76a849afbba8e8de7d8c4/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9eb47ee193f76a849afbba8e8de7d8c4/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/dc9091c42d270c4ec25ad818953633d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/dc9091c42d270c4ec25ad818953633d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/73a25c640d7d30e8033ba667964b7b58/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/73a25c640d7d30e8033ba667964b7b58/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/83dee4655c621520a35401faaf864e50/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/83dee4655c621520a35401faaf864e50/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4111835792350b5a672c34b4872008c6/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/skripis umitra/Skripsi Dewi Admin/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4111835792350b5a672c34b4872008c6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/653d2fc7cc83cf567e7af1b3e7d51032/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/653d2fc7cc83cf567e7af1b3e7d51032/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/a185050cbdace66ba36864d088c4c39e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/a185050cbdace66ba36864d088c4c39e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/69155cb2dc637c93602286c4797a856f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/69155cb2dc637c93602286c4797a856f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b427067ac20ddc52e37b31bfa91192d6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b427067ac20ddc52e37b31bfa91192d6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e76a5c65e0824574bfeaab4d3f1d1de3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e76a5c65e0824574bfeaab4d3f1d1de3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/36e2b85faa8af207167ec61884e3b28f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/36e2b85faa8af207167ec61884e3b28f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c8a695c3fbdd89a5444b976a2fe3c750/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/c8a695c3fbdd89a5444b976a2fe3c750/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/73ed0194da0e22ea6109b082e8aadee1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/73ed0194da0e22ea6109b082e8aadee1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f38113048b2f9b29cc71e54fd85fd46/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f38113048b2f9b29cc71e54fd85fd46/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9eb47ee193f76a849afbba8e8de7d8c4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9eb47ee193f76a849afbba8e8de7d8c4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/dc9091c42d270c4ec25ad818953633d3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/dc9091c42d270c4ec25ad818953633d3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/73a25c640d7d30e8033ba667964b7b58/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/73a25c640d7d30e8033ba667964b7b58/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4111835792350b5a672c34b4872008c6/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/4111835792350b5a672c34b4872008c6/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/83dee4655c621520a35401faaf864e50/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/83dee4655c621520a35401faaf864e50/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/83dee4655c621520a35401faaf864e50/AndroidManifest.xml:26:13-58
