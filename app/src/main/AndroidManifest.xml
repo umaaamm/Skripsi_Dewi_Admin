@@ -121,6 +121,14 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.umaaamm.dewi_jilbabadmin.MainActivity" />
         </activity>
+        <activity
+            android:name="com.example.umaaamm.dewi_jilbabadmin.Belanja"
+            android:label="Pesanan"
+            android:theme="@style/MasukDaftar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.umaaamm.dewi_jilbabadmin.MainActivity" />
+        </activity>
     </application>
 
 </manifest>
