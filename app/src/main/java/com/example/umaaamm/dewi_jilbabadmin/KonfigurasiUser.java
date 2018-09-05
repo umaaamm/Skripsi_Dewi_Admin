@@ -6,7 +6,7 @@ package com.example.umaaamm.dewi_jilbabadmin;
 
 public class KonfigurasiUser {
 
-    public static final String URL_ADD="http://umam-developer.com/API/hijab/tambahUser.php";
+    public static final String URL_ADD="http://umam-developer.com/API/hijab/Tambahadmin.php";
     public static final String URL_GET_ALL = "http://umam-developer.com/API/hijab/tampilSemuaUser.php";
     public static final String URL_GET_EMP = "http://umam-developer.com/API/hijab/tampilUser.php?User_id=";
     public static final String URL_UPDATE_EMP = "http://umam-developer.com/API/hijab/updateUser.php";
@@ -23,7 +23,7 @@ public class KonfigurasiUser {
     public static final String TAG_JSON_ARRAY="result";
     public static final String TAG_ID = "id_user";
     public static final String TAG_NAMA = "nama_user";
-    //public static final String TAG_UserName = "username";
+    public static final String TAG_JABATAN = "jabatan";
     public static final String TAG_Email = "email";
     public static final String TAG_PASSWORD = "password";
 

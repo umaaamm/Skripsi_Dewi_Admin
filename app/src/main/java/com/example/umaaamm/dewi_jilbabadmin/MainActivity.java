@@ -18,6 +18,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Toast;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -66,7 +67,7 @@ public class MainActivity extends AppCompatActivity
             }
         });
 
-
+        //Toast.makeText(MainActivity.this,"sisseion = "+id_user_s,Toast.LENGTH_LONG).show();
         idbarang = new ArrayList<>();
         stokbarang = new ArrayList<>();
         namabarang = new ArrayList<>();
@@ -242,6 +243,10 @@ public class MainActivity extends AppCompatActivity
             Intent ke_beranda = new Intent(MainActivity.this, MainActivity.class);
             startActivity(ke_beranda);
         } else if (id == R.id.keluar) {
+            id_user_s = "kosong";
+            Toast.makeText(MainActivity.this,"Anda Telah Logout.",Toast.LENGTH_LONG).show();
+            finish();
+
 
         } else if (id == R.id.kategori) {
             Intent ke_produk = new Intent(MainActivity.this, Kategori.class);

@@ -18,7 +18,7 @@
             android:title="Upload Produk" />
         <item
             android:id="@+id/pesanan"
-            android:icon="@drawable/ic_add_img2"
+            android:icon="@drawable/ic_cart"
             android:title="Pesanan" />
 
     </group>
