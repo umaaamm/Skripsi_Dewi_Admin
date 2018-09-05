@@ -102,6 +102,7 @@ public class Login extends AppCompatActivity {
                 if(username.equals(txt_username.getText().toString()) && password.equals(txt_password.getText().toString()) && jabatan.equals("admin") ) {
                     //Toast.makeText(Login.this, "Email : " + txt_username.getText() + " Password : " + txt_password.getText() + " Anda berhasil Login", Toast.LENGTH_SHORT).show();
                     //sesi.setId_user(id);
+                    Toast.makeText(Login.this,"Anda Berhasil Login.",Toast.LENGTH_LONG).show();
                     MainActivity.id_user_s = id;
                     Intent kemain = new Intent(Login.this, MainActivity.class);
                     startActivity(kemain);

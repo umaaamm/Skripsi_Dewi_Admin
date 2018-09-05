@@ -32,6 +32,7 @@ public class Produk extends AppCompatActivity {
     private ArrayList<String> namabarang;
     private ArrayList<String> gambarbarang;
     private ArrayList<String> hargabarang;
+    private ArrayList<String> rating;
     private String JSON_STRING;
     SwipeRefreshLayout swipeRefreshLayout;
 
@@ -62,6 +63,7 @@ public class Produk extends AppCompatActivity {
         namabarang = new ArrayList<>();
         gambarbarang = new ArrayList<>();
         hargabarang = new ArrayList<>();
+        rating = new ArrayList<>();
 
         rvView = (RecyclerView) findViewById(R.id.rv_main_barang);
         rvView.setHasFixedSize(true);
@@ -108,6 +110,9 @@ public class Produk extends AppCompatActivity {
         if(!hargabarang.isEmpty()){
             hargabarang.clear();
         }
+        if(!rating.isEmpty()){
+            rating.clear();
+        }
 
         JSONObject jsonObject = null;
 //        ArrayList<HashMap<String,String>> list = new ArrayList<HashMap<String, String>>();
@@ -122,6 +127,7 @@ public class Produk extends AppCompatActivity {
                 String nama = jo.getString(KonfigurasiBarang.TAG_NAMA);
                 String gambar = jo.getString(KonfigurasiBarang.TAG_GAMBAR);
                 String harga = jo.getString(KonfigurasiBarang.TAG_HARGA);
+                String rating_temp = jo.getString(KonfigurasiBarang.TAG_RATING);
 
                 //Toast.makeText(Barang.this,"Get Json : "+nama,Toast.LENGTH_SHORT).show();
                 idbarang.add(id);
@@ -129,6 +135,7 @@ public class Produk extends AppCompatActivity {
                 namabarang.add(nama);
                 gambarbarang.add(gambar);
                 hargabarang.add(harga);
+                rating.add(rating_temp);
 
 //                HashMap<String,String> employees = new HashMap<>();
 //                employees.put(Konfigurasi.TAG_ID,id);
@@ -137,7 +144,7 @@ public class Produk extends AppCompatActivity {
             }
 
             //Toast.makeText(Barang.this,"Get Json : "+namabarang.size(),Toast.LENGTH_SHORT).show();
-            adapter = new RecyclerViewAdapterBarangDetail(idbarang,stokbarang,namabarang,gambarbarang,hargabarang);
+            adapter = new RecyclerViewAdapterBarangDetail(idbarang,stokbarang,namabarang,gambarbarang,hargabarang,rating);
             rvView.setAdapter(adapter);
 
         } catch (JSONException e) {
