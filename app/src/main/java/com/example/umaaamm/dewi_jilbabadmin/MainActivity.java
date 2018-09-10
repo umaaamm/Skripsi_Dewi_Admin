@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity
 
     private String JSON_STRING;
     SwipeRefreshLayout swipeRefreshLayout;
-
+    android.widget.SearchView searchView;
     Sesion sesi;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -68,6 +68,24 @@ public class MainActivity extends AppCompatActivity
             }
         });
 
+        searchView = (android.widget.SearchView) findViewById(R.id.svCari);
+
+        searchView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                //Toast.makeText(MainActivity.this,"wkowkwo ini searfh = "+ searchView.getQuery(),Toast.LENGTH_LONG).show();
+                //addEmployee(searchView.getQuery().toString());
+
+
+                if (searchView.getQuery().toString().equals(""))
+                {
+                    getJSON("semua");
+                }else{
+                    getJSON(searchView.getQuery().toString());
+                }
+            }
+        });
+
         //Toast.makeText(MainActivity.this,"sisseion = "+id_user_s,Toast.LENGTH_LONG).show();
         idbarang = new ArrayList<>();
         stokbarang = new ArrayList<>();
@@ -81,7 +99,7 @@ public class MainActivity extends AppCompatActivity
 
         rvView.setLayoutManager(new GridLayoutManager(MainActivity.this, 2));
 
-        getJSON();
+        getJSON("semua");
 
 
         //floating button
@@ -175,7 +193,7 @@ public class MainActivity extends AppCompatActivity
     }
 
 
-    private void getJSON() {
+    private void getJSON(final String nama_barang_c) {
 
         class GetJSON extends AsyncTask<Void, Void, String> {
 
@@ -199,7 +217,15 @@ public class MainActivity extends AppCompatActivity
             @Override
             protected String doInBackground(Void... params) {
                 RequestHandler rh = new RequestHandler();
-                String s = rh.sendGetRequest(KonfigurasiBarang.URL_GET_ALL);
+                String s;
+                if(nama_barang_c !="semua"){
+                    s = rh.sendGetRequestParam(KonfigurasiBarang.URL_CARI,nama_barang_c);
+                }else if(nama_barang_c == ""){
+                    String nama_barang_c = "semua";
+                    s  = rh.sendGetRequestParam(KonfigurasiBarang.URL_CARI,nama_barang_c);
+                }else {
+                    s  = rh.sendGetRequestParam(KonfigurasiBarang.URL_CARI,nama_barang_c);
+                }
                 return s;
             }
         }

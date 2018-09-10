@@ -401,18 +401,18 @@
     </com.github.ksoichiro.android.observablescrollview.ObservableScrollView>
     <include layout="@layout/gradient_header" />
 
-    <android.support.design.widget.FloatingActionButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentEnd="true"
-        android:layout_marginBottom="10dp"
-        android:layout_gravity="bottom|center"
-        android:elevation="6dp"
-        app:fabSize="normal"
-        android:id="@+id/btn_beli"
-        app:backgroundTint="@color/colorPrimaryDark"
-        android:src="@drawable/ic_cart_white"/>
+    <!--<android.support.design.widget.FloatingActionButton-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_alignParentEnd="true"-->
+        <!--android:layout_marginBottom="10dp"-->
+        <!--android:layout_gravity="bottom|center"-->
+        <!--android:elevation="6dp"-->
+        <!--app:fabSize="normal"-->
+        <!--android:id="@+id/btn_beli"-->
+        <!--app:backgroundTint="@color/colorPrimaryDark"-->
+        <!--android:src="@drawable/ic_cart_white"/>-->
 
 
 </FrameLayout>
